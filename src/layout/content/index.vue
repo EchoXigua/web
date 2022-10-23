@@ -4,7 +4,7 @@ import { reactive, ref } from 'vue'
 </script>
 <template>
   <div>
-    <router-view></router-view>
+    内容
   </div>
 </template>
 <style scoped>
